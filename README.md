@@ -6,6 +6,6 @@
 -->
 Engineer & PMO, i decided to learn Data Science after 8 years working in utilities sector. 
 
-🔭 Currently looking for Data Analyst / Data Scientist opportunities <br/>;
-🚋 I learned Data Science at Le Wagon Paris, to be a certified AI Developer <br/>;
-📧 Reach me at : marina.ngoyet@hotmail.fr <br/>;
+🔭 Currently looking for Data Analyst / Data Scientist opportunities  <br/>
+🚋 I learned Data Science at Le Wagon Paris, to be a certified AI Developer  <br/>
+📧 Reach me at : marina.ngoyet@hotmail.fr  <br/>
